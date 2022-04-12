@@ -22,23 +22,47 @@
 /*******************************************/
 html {
      width: 100%;
+     display: block;
 }
 body {
-     
+     display: flex;
+     background: #5BCFF4;
      
 }
 header {
-     position: sticky;
-     height: 15px;
-     margin-bottom: 10px;
+     position: fixed;
+     height: 40px;
      width: 100%;
-
+     text-align: center;
+     /* background: white; */
+     margin-top: 0;
+     display: flex;
+     justify-content: start;
+     align-items: center;
+}
+#whiteOval {
+     background: white;
+     -moz-border-radius: 15px;
+     -webkit-border-radius: 15px;
+     border-radius: 15px;
+     width: 60%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-left: 5%;
+     padding: 0 15px;
+     height: 30px;
+}
+#pauseAndSpeaker {
+     margin-left: auto;
+     margin-right: 5%;
 }
 main {
      display: flex;
      flex-wrap: wrap;
      width: 100%;
-     margin-top: 25px;
+     margin-top: 40px;
+     
 }
 div {
      width: 25%;
@@ -47,6 +71,12 @@ div {
 img {
      width: 95%;
      margin: 2.5%;
+}
+#nowPlaying {
+     margin-left: 5px;
+}
+.fa-music, .fa-volume-high {
+     margin-right: 15px;
 }
 /******************************************
 /* LAYOUT
@@ -57,6 +87,10 @@ header {
 
 footer {
 
+}
+a {
+     font-weight: 900;
+     font-size: large;
 }
 
 /******************************************
