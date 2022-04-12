@@ -28,19 +28,7 @@
 
   <h3 align="center">Animal-Crossing-KK-Slider-Music-Player</h3>
 
-  <p align="center">
-    
-    <br />
-    <a href="https://github.com/ChrisThompsonDev/Animal-Crossing-KK-Slider-Music-Player"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ChrisThompsonDev/Animal-Crossing-KK-Slider-Music-Player">View Demo</a>
-    ·
-    <a href="https://github.com/ChrisThompsonDev/Animal-Crossing-KK-Slider-Music-Player/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ChrisThompsonDev/Animal-Crossing-KK-Slider-Music-Player/issues">Request Feature</a>
-  </p>
-</div>
+
 
 
 
